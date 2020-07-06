@@ -25,7 +25,8 @@
     
     <module>moduleJar</module>
     <module>moduleWar</module>
-      
+    <module>Homework_1</module>
+
   </modules>
   
 </project>
